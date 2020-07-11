@@ -1,0 +1,6 @@
+uiautomator2=2.9.6
+jieba=0.42.1
+numpy=1.19.0
+wordcloud=1.7.0
+matplotlib=3.2.2
+Pillow=7.2.0
