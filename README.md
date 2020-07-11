@@ -8,7 +8,7 @@ Just some crawlers for WeChat by [Appium](https://github.com/appium/appium).
 
 |                  moments                                  |                    juejin                  |baidu                                     |
 | ----------------------------------- | ------------------------------------------ |--------------- |
-| ![moments](https://cdn.jsdelivr.net/gh/hu-qi/wechat-crawlers/example/result-1594507948130.jpg)    | ![juejin](https://cdn.jsdelivr.net/gh/hu-qi/wechat-crawlers/example/result-1594507943103.jpg)        |![baidu](https://cdn.jsdelivr.net/gh/hu-qi/wechat-crawlers/example/result-result-1594507938241.jpg)                   |
+| ![moments](https://cdn.jsdelivr.net/gh/hu-qi/wechat-crawlers/example/result-1594507948130.jpg)    | ![juejin](https://cdn.jsdelivr.net/gh/hu-qi/wechat-crawlers/example/result-1594507943103.jpg)        |![baidu](https://cdn.jsdelivr.net/gh/hu-qi/wechat-crawlers/example/result-1594507938241.jpg)                   |
 
 
 ## 配置说明
