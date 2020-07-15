@@ -1,7 +1,7 @@
 # WeChat Crawlers
-Just some crawlers for WeChat by [Appium](https://github.com/appium/appium).    
-一次小小的尝试，借助跨平台自动化测试工具[Appium](https://github.com/appium/appium),实现微信相关的数据爬取，结合数据及数据分析实践朋友圈云词生成等应用。    
-本仓库使用**windows**环境搭配**Android真机**来实现抓取特定**APP**如(微信)的数据，所以您可能需要安装**Python 3.7+**、**Java 8**、**Node.js 10+**已及**Android SDK**等必要环境或依赖，由于笔者工作需要使用**React Native**开发**APP**，所以已安装上述环境环境或依赖，此处不做过多的介绍。
+Just some crawlers for WeChat by [uiautomator2](https://github.com/openatx/uiautomator2).    
+一次小小的尝试，借助跨平台自动化测试工具[uiautomator2](https://github.com/openatx/uiautomator2)结合[weditor](https://github.com/openatx/weditor),实现微信相关的数据爬取，结合数据及数据分析实践朋友圈云词生成等应用。    
+本仓库使用**windows**环境搭配**Android真机**来实现抓取特定**APP**如(微信)的数据，所以您可能需要安装**Python 3.7+**、**Java 8**、**Node.js 10+**已及**Android SDK**等必要环境或依赖，由于笔者工作需要使用**React Native**开发**APP**，所以已安装上述环境环境或依赖，此处不做过多的介绍,请参考**[just-do-it.md](./doc/just-do-it.md)**。
 
 ## 效果
 可查看**example**目录下文件，**wc_moment_list.txt**和**wc_moment_list_wordcloud.txt**分别为爬取的源数据和处理过后的数据，**result-XX.jpg**为输出的词云结果。**wc_moment_list_wordcloud_bak.txt**的生成是因为我发现源数据中存在一些无意义的数据，导致结果不准确，修正数据之后修改**needManual**配置，重新运行生成新的结果同时不存了上一次的结果。
